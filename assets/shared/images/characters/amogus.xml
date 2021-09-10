@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spooky_kids_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sus left0000" x="0" y="0" width="556" height="527" frameX="0" frameY="-2" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="sus DOWN note0000" x="1135" y="0" width="463" height="408" frameX="0" frameY="-4" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="sus UP NOTE0000" x="2066" y="0" width="399" height="571" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="sus dance idle0000" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="sus sing right0000" x="1357" y="581" width="442" height="524" frameX="0" frameY="-9" frameWidth="442" frameHeight="533"/>
+</TextureAtlas>
