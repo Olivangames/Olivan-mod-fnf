@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DRIP.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yellow0000" x="0" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0001" x="0" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0002" x="0" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0003" x="0" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0004" x="0" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0005" x="0" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0006" x="162" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0007" x="162" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0008" x="162" y="0" width="162" height="322"/>
+	<SubTexture name="yellow0009" x="162" y="0" width="162" height="322"/>
+</TextureAtlas>
